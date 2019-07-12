@@ -1,4 +1,8 @@
+在线地址
 http://wxiaoo.gitbook.io/fe
+
+Gitbook在线引导手册
+http://www.chengweiyang.cn/gitbook/customize/book.json.html
 
 # 引导
 
